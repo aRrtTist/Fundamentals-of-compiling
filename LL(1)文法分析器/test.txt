@@ -1,0 +1,8 @@
+E->TG
+G->+TG|-TG
+G->¦Å
+T->FS
+S->*FS|/FS
+S->¦Å
+F->(E)
+F->i
